@@ -2,11 +2,15 @@
 This bot is Korea natural bot use korea pubulic api
 copyright
 1. Han River Flood Control Center
+
 한강홍수통제소가 제공하는 API 및 데이터파일 등에 대한 저작권은 한강홍수통제소 혹은 제3자에 있고, 한강홍수통제소의 이용허락으로 인해 사용자가 당해 API 및 데이터파일 등에 대한 저작권을 취득하는 것은 아닙니다. 다만, 사용자가 제작한 프로그램에 대한 저작권은 사용자에게 귀속됩니다.
 2. the Meteorological Administration
+
    본정보는 기상청에서 제공받는 태풍,지진 정보 이며 공공 데이터 포털에서 api를 제공 받을 수있습니다. 본 BOT의 지진,태풍 정보의 원 정보는 기상청에 귀속됩니다.
 3. Team.OBAH
+
    위 정보를 제외한 코드등은 OBAH에게 귀속됩니다.
+   
 이용약관
 1. 본 bot 을 이용하게 되면 실시간 정보 제공에 동의하는 것이며 실시간 정보 제공의 기준은 Team.OBAH에서 정합니다.
 2. 공공약관에 따라 API등의 사용이 중지될 경우 예고없이 기능의 일부가 정지 혹은 소멸 될 수 있습니다.
